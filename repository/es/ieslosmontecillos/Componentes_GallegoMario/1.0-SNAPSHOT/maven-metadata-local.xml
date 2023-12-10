@@ -3,7 +3,7 @@
   <groupId>es.ieslosmontecillos</groupId>
   <artifactId>Componentes_GallegoMario</artifactId>
   <versioning>
-    <lastUpdated>20231204093621</lastUpdated>
+    <lastUpdated>20231210164212</lastUpdated>
     <snapshot>
       <localCopy>true</localCopy>
     </snapshot>
@@ -11,12 +11,12 @@
       <snapshotVersion>
         <extension>jar</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20231204093621</updated>
+        <updated>20231210164212</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
         <value>1.0-SNAPSHOT</value>
-        <updated>20231204093621</updated>
+        <updated>20231210164212</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>

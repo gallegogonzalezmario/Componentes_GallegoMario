@@ -46,10 +46,6 @@ public class SelectorDeslizamiento extends AnchorPane{
         }
 
         items = new ArrayList<>();
-        for(int i = 0; i<10 ; i++){
-            items.add(Integer.toString(i));
-        }
-        setRepetitive(true);
         selectedIndex = 0;
         previousButton.setOnAction((ActionEvent event) -> {
             setPrevious();
