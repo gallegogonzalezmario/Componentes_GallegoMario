@@ -1,6 +1,5 @@
 package es.ieslosmontecillos.componentes_gallegomario;
 
-import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.control.*;
 
